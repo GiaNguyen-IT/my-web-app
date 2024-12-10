@@ -1,8 +1,8 @@
 <?php
-$host = 'mysql-db';
+$host = 'mydb-instance.cbaa0goosrwz.ap-southeast-1.rds.amazonaws.com';
 $dbname = 'BookInfo';
-$username = 'root';
-$password = '1412';
+$username = 'admin';
+$password = '14121214';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
