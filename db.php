@@ -1,5 +1,5 @@
 <?php
-$host = 'mydb-instance.cbaa0goosrwz.ap-southeast-1.rds.amazonaws.com';
+$host = 'database-1.cbaa0goosrwz.ap-southeast-1.rds.amazonaws.com';
 $dbname = 'BookInfo';
 $username = 'admin';
 $password = '14121214';
